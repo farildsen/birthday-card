@@ -59,7 +59,7 @@ const gifts = [
     hueRotate: -160,
     saturate: 2.2,
     logo: podimoLogo,
-    title: 'Podimo - 12 måneder',
+    title: 'Mofibo - 12 måneder',
     message: 'Ubegrænset adgang til alle dine yndlingbøger og podcasts. God fornøjelse 😊<br> Hjertelig tillykke med fødselsdagen! 🎂',
   },
   {
