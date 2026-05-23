@@ -107,7 +107,7 @@ function handleClick() {
   position: absolute;
   top: 100%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-50%) translateY(0);
   margin-top: 3rem;
   display: flex;
   flex-direction: column;
@@ -156,7 +156,7 @@ function handleClick() {
 .label-enter-from,
 .label-leave-to {
   opacity: 0;
-  transform: translateY(6px);
+  transform: translateX(-50%) translateY(-20px);
 }
 
 .flip-enter-active,
