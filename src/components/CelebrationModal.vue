@@ -16,7 +16,7 @@
           <div v-else class="icon">🎁</div>
 
           <h2>{{ gift.title }}</h2>
-          <p>{{ gift.message }}</p>
+          <p v-html="gift.message"></p>
 
           <div class="ribbon ribbon-left"></div>
           <div class="ribbon ribbon-right"></div>
