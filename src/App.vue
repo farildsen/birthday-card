@@ -88,7 +88,7 @@ const gifts = [
 const GRID_COLS     = 9      // number of columns
 const GRID_ROWS     = 7      // number of rows
 const FLAG_SIZE     = 70     // px — width of each flag
-const FLAG_OPACITY  = 0.25   // 0 (invisible) → 1 (fully visible)
+const FLAG_OPACITY  = 0.15   // 0 (invisible) → 1 (fully visible)
 const MAX_ROTATION  = 30     // max degrees clockwise / anti-clockwise
 const MAX_OFFSET    = 30     // % of cell — how far flag can wander from center
 
